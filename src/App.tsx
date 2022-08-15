@@ -1,10 +1,3 @@
-// 3rd Party libraries
-import {
-  HashRouter as router,
-  Routes,
-  Route,
-} from 'react-router-dom'
-
 // CSS
 import styles from './App.module.css';
 
