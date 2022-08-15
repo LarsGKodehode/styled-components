@@ -1,7 +1,7 @@
 // 3rd Parties
 
 // CSS
-import './App.css';
+import styles from './App.module.css';
 
 // Assets
 import logo from '/logo.svg';
