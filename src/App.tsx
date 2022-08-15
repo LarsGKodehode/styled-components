@@ -10,9 +10,9 @@ import logo from '/logo.svg';
 
 function App() {
   return (
-    <div className="App">
+    <main className={styles['App']}>
       <img src={logo} className="logo" alt="logo" />
-    </div>
+    </main>
   );
 };
 
