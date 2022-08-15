@@ -1,5 +1,5 @@
 [![Page-Build](https://github.com/LarsGKodehode/styled-components/actions/workflows/node.js.yml/badge.svg)](https://github.com/LarsGKodehode/styled-components/actions/workflows/node.js.yml)
-[![pages-build-deployment](https://github.com/LarsGKodehode/styled-components/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/LarsGKodehode/styled-components/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/LarsGKodehode/styled-components/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/LarsGKodehode/styled-components/actions/workflows/pages/pages-build-deployment)
 
 # Styled Component Task
 

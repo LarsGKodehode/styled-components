@@ -1,0 +1,22 @@
+.App {
+  /* shape */
+  min-height: 100vh;
+
+  /* content placement */
+  display: flex;
+  flex-direction: column;
+
+  /* background */
+  background-image: url(/logo.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.logo {
+  /* shape */
+  height: 6em;
+  min-height: 3em;
+  max-height: 12em;
+  padding: 1.5em;
+}
