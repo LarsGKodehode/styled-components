@@ -9,5 +9,5 @@ export default defineConfig({
     outDir: './release',
   },
 
-  base: '/styled-component/',
+  base: '/styled-components/',
 })
